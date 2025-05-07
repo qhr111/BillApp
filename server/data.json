@@ -1,0 +1,130 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": -99,
+      "date": "2024-10-24 10:36:42",
+      "useFor": "drinks",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": -88,
+      "date": "2024-10-24 10:37:51",
+      "useFor": "longdistance",
+      "id": 2
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2024-10-24 00:00:00",
+      "useFor": "bonus",
+      "id": 3
+    },
+    {
+      "type": "pay",
+      "money": -33,
+      "date": "2024-09-24 16:15:41",
+      "useFor": "dessert",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": -56,
+      "date": "2024-10-24T05:37:06.000Z",
+      "useFor": "drinks",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": -888,
+      "date": "2024-10-28T08:21:42.135Z",
+      "useFor": "travel",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "money": 10000,
+      "date": "2025-03-20T06:45:54.004Z",
+      "useFor": "salary",
+      "id": 7
+    },
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2025-03-24T07:17:12.531Z",
+      "useFor": "drinks",
+      "id": 8
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "date": "2025-03-24T07:51:20.421Z",
+      "useFor": "dessert",
+      "id": 9
+    },
+    {
+      "type": "pay",
+      "money": -100,
+      "date": "2025-01-24T09:18:12.898Z",
+      "useFor": "drinks",
+      "id": 17
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2025-02-25T09:11:25.312Z",
+      "useFor": "food",
+      "id": 18
+    },
+    {
+      "type": "income",
+      "money": 270,
+      "date": "2025-02-25T11:14:58.036Z",
+      "useFor": "salary",
+      "id": 19
+    },
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2025-02-24T11:14:56.036Z",
+      "useFor": "food",
+      "id": 20
+    },
+    {
+      "type": "pay",
+      "money": -14,
+      "date": "2025-02-24T11:17:56.036Z",
+      "useFor": "food",
+      "id": 21
+    },
+    {
+      "id": "6a85",
+      "useFor": "salary",
+      "money": 270,
+      "type": "income",
+      "data": "2025-02-07T14:40:58.145Z"
+    },
+    {
+      "id": "610d",
+      "useFor": "food",
+      "money": -50,
+      "type": "pay",
+      "data": "2025-02-07T14:41:36.187Z"
+    },
+    {
+      "id": "ad22",
+      "useFor": "bodybuilding",
+      "money": -50,
+      "type": "pay",
+      "data": "2025-02-07T14:47:09.441Z"
+    },
+    {
+      "id": "0f2b",
+      "useFor": "bonus",
+      "money": 120,
+      "type": "income",
+      "data": "2025-02-07T15:09:58.522Z"
+    }
+  ]
+}
